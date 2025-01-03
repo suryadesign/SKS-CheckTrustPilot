@@ -1,2 +1,2 @@
 # SKS-CheckTrustPilot
-Bookmarklet to pull up TrustPilot page for current URL
+This bookmarklet pulls up the TrustPilot page for current URL.
